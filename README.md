@@ -1,7 +1,6 @@
 # Where can you find cheap Pepperoni & Plain pizza slice in NYC
+![](https://github.com/poojapatel26/NYC-Pizza-Slice-Analysis/blob/main/tableau_dashboard.png)
 
-Dashboard Screnshot 
-![]()
 This is a data analysis project of analyzing different pizza places price using Tableau. By using tableau dashboard, you can find an affordable pizza place in New York City. Even you can find cheap pizza by clicking Brough of New York City.
 
 **Blog Post** : [Here](https://medium.com/@poojapatel26/where-can-you-find-cheap-pepperoni-plain-pizza-slice-in-nyc-243672919136)
