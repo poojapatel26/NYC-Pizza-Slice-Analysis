@@ -19,8 +19,9 @@ In this project, my primary focus is to find an affordable pizza place in New Yo
 
 Tableau Dashboard Steps and Features:
 
-Prepare the data: calculations, joins, spatial intersections, and more
-Create maps: hexbin maps, map layers, spatial joins, using maps as shapes
-Create line charts and heat maps
-Build a dashboard using layout containers
-There are different types of plot shown below, which basically shows the cheap pizza slice in NYC
+* Prepare the data: calculations, joins, spatial intersections, and more
+* Create maps: hexbin maps, map layers, spatial joins, using maps as shapes
+* Create line charts and heat maps
+* Build a dashboard using layout containers
+  
+There are different types of plot shown below, which basically shows the cheap pizza slice in NYC.
